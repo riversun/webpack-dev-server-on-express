@@ -15,7 +15,7 @@
     "webpack-dev-server": "^3.11.0",
     "webpack-dev-middleware": "^3.7.2",
     "webpack-hot-middleware": "^2.25.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "multer": "^1.4.2",
     "babel-watch": "^7.0.0",
     "@babel/core": "^7.9.6",
